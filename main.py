@@ -1,0 +1,21 @@
+first='9'
+second = '18'
+third = '27'
+fourth = '36'
+fifth = '45'
+sixth = '54'
+seventh = '63'
+eigth = '72'
+ninth = '81'
+tenth = '90'
+print('''9 x 1 = {}
+9 x 2 = {}
+9 x 3 = {}
+9 x 4 = {}
+9 x 5 = {}
+9 x 6 = {}
+9 x 7 = {}
+9 x 8 = {}
+9 x 9 = {}
+9 x 10 = {}'''.format(first,second,third,fourth,fifth,sixth,seventh,eigth,ninth,tenth))
+
